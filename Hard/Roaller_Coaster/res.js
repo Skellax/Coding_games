@@ -29,27 +29,25 @@ for (let i = 0; i < N; i++) {
 
 while (count < C)
 {
-    let range = i;
     while (place + tab[i] <= L && count2 != N)
     {
         answer += tab[i];
         place += tab[i];
         i++;
-        count2++;
-        console.error('place: ' + place);              
+        count2++;             
     }
-    for (let j = range; j < i; j++)
+    for (let j = 0; j < i && count2 != N; j++)
     {
         tab.push(tab[j]);
+        tab.shift();
     }
-    console.error('resultat: ' + answer);
     count++;
     place = 0;
     count2 = 0;
+    i = 0;
 }
 
-//Dernier test ne passe pas , delai trop long ! 
-
+//dernier test trop lent 
 
 
 // Write an answer using console.log()
