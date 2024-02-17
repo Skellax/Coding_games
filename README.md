@@ -1,6 +1,6 @@
 # Coding Games 
 
-Hi :), you cans see my differents projects in coding games split in three categories , Easy Medium and Hard 
+Hi :), you can check my differents projects in coding games split in three categories , Easy Medium and Hard 
 
 ## Easy 
  - Card Coutin when esily distracted :white_check_mark:
