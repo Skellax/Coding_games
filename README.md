@@ -13,5 +13,5 @@ Hi :), you can check my differents projects in coding games split in three categ
   Empty for now 
 
 ## Hard 
- - Roaller Coaster `#6c644 In progress` 
+ - Roaller Coaster `In progress` 
  
