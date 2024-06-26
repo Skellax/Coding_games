@@ -17,5 +17,5 @@ Hi :), you can check my differents projects in coding games split in three categ
 
 
 ## Event
--SummerGame 2024 🥈
+-SummerGame 2024 🩶
  
